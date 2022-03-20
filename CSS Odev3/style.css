@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+
+.top{
+    color:#202124;
+    padding: 3px;
+    float: right;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#img{
+    align-items: center;
+    margin-top: 6%;
+    text-align: center;
+}
+
+.boxContainer{
+    margin: auto;
+    margin-top: 2%;
+    position: relative;
+    width: 40%;
+    height: 40px;
+    border: 1px solid #202124;
+    border-radius: 50px;
+}
+
+.elementsContainer{
+    width: 95%;
+    height: 100%;
+    vertical-align: middle;
+    padding: 0px 6%;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: "Nunito";
+    color: #424242;
+    font-weight: 500;
+}
+
+.search{
+    border: none;
+    height: 100%;
+    width: 100%;
+}
+
+.search:focus{
+    outline: none;
+}
+
+.metarial-icons{
+    font-size: 25;
+    color: #2980b9;
+}
+
+.aa{
+    text-align: center;
+    padding-top: 1%;
+}
+
+.bottom{
+    text-decoration: none;
+    margin-right: 1%;
+}
