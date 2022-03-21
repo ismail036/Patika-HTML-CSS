@@ -1,0 +1,34 @@
+body{
+    background-color: bisque;
+}
+
+h2{
+    color: rgb(18, 250, 173);
+}
+
+#bilgi{
+    text-align: center; 
+}
+
+#tarif{
+    text-align: center;
+    list-style-position: inside;
+}
+
+#malzeme{
+    background-color: brown;
+    width: 21%;
+    text-align: center;
+    margin-left: 41%;
+    border-radius: 8px;
+}
+
+#yapilis{text-align: center;}
+
+#NY{
+    background-color: brown;
+    width: 7%;
+    margin-left: 48%;
+    border-radius: 8px;
+}
+
